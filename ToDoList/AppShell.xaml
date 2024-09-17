@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="ToDoList.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:ToDoList"
+    xmlns:views="clr-namespace:ToDoList.Maui.Views"
+    Shell.FlyoutBehavior="Disabled"
+    Title="ToDoList">
+
+    <!-- First ShellContent with its own route -->
+    <ShellContent
+        Title="To Do"
+        ContentTemplate="{DataTemplate local:MainPage}" 
+        Route="MainPage" 
+        /> 
+       
+
+    <!-- Second ShellContent with its own route -->
+    <ShellContent
+        Title="Eyas View"
+        ContentTemplate="{DataTemplate views:ListTitles}"
+        Route="ListTitles" />
+    <ShellContent
+        ContentTemplate="{DataTemplate views:TaskList}"
+        Route="TaskList"
+    />
+
+</Shell>

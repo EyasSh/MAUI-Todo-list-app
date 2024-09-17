@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="ToDoList.Maui.Views.ListTitles"
+    Title="Home Page"
+    >
+    
+    <ListView x:Name="ToDoList" 
+              BackgroundColor="Transparent"
+              SeparatorColor="Silver"
+              RowHeight="100"
+              ItemSelected="ToDoList_ItemSelected"
+              ItemTapped="ToDoList_ItemTapped"
+    >
+              
+        <ListView.ItemTemplate >
+            <DataTemplate >
+               
+                <ViewCell>
+                    <StackLayout Orientation="Vertical"   VerticalOptions="Fill">
+                        <!-- Display ListName -->
+                        <!-- Margin='Left,Top,Right,Buttom' -->
+                        <Label Text="{Binding ListName}" 
+                               TextColor="White"
+                                FontSize="25"
+                                Margin="12,15,0,0" 
+                               />
+                        <Label
+                            Text="{Binding ListToDoUntil, StringFormat='Due by: {0:dd:MM:yyyy}'}"
+                            TextColor="LightGrey"
+                            FontSize="15"
+                             Margin="12,15,0,0"
+                        />
+                    </StackLayout>
+                </ViewCell>
+                
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+
+</ContentPage>
