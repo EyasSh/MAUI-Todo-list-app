@@ -2067,3 +2067,4 @@ C:\Users\eyas\source\repos\ToDo\ToDoList\obj\Debug\net8.0-android\android\assets
 C:\Users\eyas\source\repos\ToDo\ToDoList\obj\Debug\net8.0-android\android\assets\x86\System.Private.CoreLib.dll
 C:\Users\eyas\source\repos\ToDo\ToDoList\obj\Debug\net8.0-android\android\assets\x86_64\System.Private.CoreLib.dll
 C:\Users\eyas\source\repos\ToDo\ToDoList\obj\Debug\net8.0-android\resizetizer\f\MaterialIcons-Regular.ttf
+C:\Users\eyas\source\repos\ToDo\ToDoList\obj\Debug\net8.0-android\ToDoList.sourcelink.json

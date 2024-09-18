@@ -22,6 +22,7 @@ public class ToDo
 }
    public class Chore
     {
+        public Guid ChoreId { get; init; }=Guid.NewGuid();
         public string Duty { get; set; }="Default";
         public bool IsDone { get; set; } = false;
         
