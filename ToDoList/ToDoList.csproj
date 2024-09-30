@@ -25,7 +25,7 @@
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.todolist</ApplicationId>
-		<JavaSdkDirectory>C:\Program Files\Java\jdk-11</JavaSdkDirectory>
+		<!-- <JavaSdkDirectory>C:\Program Files\Java\jdk-11</JavaSdkDirectory> -->
 		<!-- Versions -->
 		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
 		<ApplicationVersion>1</ApplicationVersion>
