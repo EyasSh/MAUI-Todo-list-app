@@ -17761,7 +17761,7 @@
         }
       }
     },
-    "net8.0-ios17.5": {
+    "net8.0-ios18.0": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18195,7 +18195,7 @@
         }
       }
     },
-    "net8.0-ios17.5/android-arm": {
+    "net8.0-ios18.0/android-arm": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18629,7 +18629,7 @@
         }
       }
     },
-    "net8.0-ios17.5/android-arm64": {
+    "net8.0-ios18.0/android-arm64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19063,7 +19063,7 @@
         }
       }
     },
-    "net8.0-ios17.5/android-x64": {
+    "net8.0-ios18.0/android-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19497,7 +19497,7 @@
         }
       }
     },
-    "net8.0-ios17.5/android-x86": {
+    "net8.0-ios18.0/android-x86": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19931,7 +19931,7 @@
         }
       }
     },
-    "net8.0-ios17.5/iossimulator-x64": {
+    "net8.0-ios18.0/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -20365,7 +20365,7 @@
         }
       }
     },
-    "net8.0-ios17.5/maccatalyst-x64": {
+    "net8.0-ios18.0/maccatalyst-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -20799,7 +20799,7 @@
         }
       }
     },
-    "net8.0-ios17.5/win10-x64": {
+    "net8.0-ios18.0/win10-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21233,7 +21233,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5": {
+    "net8.0-maccatalyst18.0": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21667,7 +21667,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/android-arm": {
+    "net8.0-maccatalyst18.0/android-arm": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22101,7 +22101,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/android-arm64": {
+    "net8.0-maccatalyst18.0/android-arm64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22535,7 +22535,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/android-x64": {
+    "net8.0-maccatalyst18.0/android-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22969,7 +22969,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/android-x86": {
+    "net8.0-maccatalyst18.0/android-x86": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23403,7 +23403,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/iossimulator-x64": {
+    "net8.0-maccatalyst18.0/iossimulator-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23837,7 +23837,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/maccatalyst-x64": {
+    "net8.0-maccatalyst18.0/maccatalyst-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24271,7 +24271,7 @@
         }
       }
     },
-    "net8.0-maccatalyst17.5/win10-x64": {
+    "net8.0-maccatalyst18.0/win10-x64": {
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -33477,14 +33477,14 @@
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "Newtonsoft.Json >= 13.0.3"
     ],
-    "net8.0-ios17.5": [
+    "net8.0-ios18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "Newtonsoft.Json >= 13.0.3"
     ],
-    "net8.0-maccatalyst17.5": [
+    "net8.0-maccatalyst18.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.82",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.82",
@@ -33499,26 +33499,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\eyas\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\eyas_\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eyas\\source\\repos\\ToDo\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\eyas\\source\\repos\\ToDo\\ToDoList\\ToDoList.csproj",
-      "packagesPath": "C:\\Users\\eyas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eyas\\source\\repos\\ToDo\\ToDoList\\obj\\",
+      "projectPath": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
+      "packagesPath": "C:\\Users\\eyas_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\eyas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\eyas_\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0-android",
@@ -33527,7 +33521,6 @@
         "net8.0-windows10.0.19041.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
@@ -33536,11 +33529,11 @@
           "targetAlias": "net8.0-android",
           "projectReferences": {}
         },
-        "net8.0-ios17.5": {
+        "net8.0-ios18.0": {
           "targetAlias": "net8.0-ios",
           "projectReferences": {}
         },
-        "net8.0-maccatalyst17.5": {
+        "net8.0-maccatalyst18.0": {
           "targetAlias": "net8.0-maccatalyst",
           "projectReferences": {}
         },
@@ -33606,9 +33599,9 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       },
-      "net8.0-ios17.5": {
+      "net8.0-ios18.0": {
         "targetAlias": "net8.0-ios",
         "dependencies": {
           "Microsoft.Extensions.Logging.Debug": {
@@ -33653,9 +33646,9 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       },
-      "net8.0-maccatalyst17.5": {
+      "net8.0-maccatalyst18.0": {
         "targetAlias": "net8.0-maccatalyst",
         "dependencies": {
           "Microsoft.Extensions.Logging.Debug": {
@@ -33701,7 +33694,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
       },
       "net8.0-windows10.0.19041": {
         "targetAlias": "net8.0-windows10.0.19041.0",
@@ -33748,7 +33741,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
