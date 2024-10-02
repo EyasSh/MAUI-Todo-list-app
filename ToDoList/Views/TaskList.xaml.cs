@@ -5,7 +5,6 @@ using ToDoList.Maui.Repositories;
 using Newtonsoft.Json;
 using Microsoft.Maui.Controls;
 namespace ToDoList.Maui.Views;
-
 partial class TaskList : ContentPage,INotifyPropertyChanged
 {
     private ToDo toDo;
@@ -73,4 +72,16 @@ partial class TaskList : ContentPage,INotifyPropertyChanged
     private void AddTaskBtn_Clicked(object sender, EventArgs e)
     {
     }
+    protected override bool OnBackButtonPressed()
+    {
+        // Perform any custom behavior here if necessary
+
+        // Navigate back to the previous page in the navigation stack
+        Navigation.PopAsync();
+
+        // Return 'true' to indicate that we've handled the back button press
+        return true;
+    }
+
+
 }

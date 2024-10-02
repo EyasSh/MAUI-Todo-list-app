@@ -8,7 +8,7 @@
     
     <ListView x:Name="ToDoList" 
               BackgroundColor="Transparent"
-              SeparatorColor="Silver"
+              SeparatorColor="Transparent"
               RowHeight="100"
               ItemSelected="ToDoList_ItemSelected"
               ItemTapped="ToDoList_ItemTapped"

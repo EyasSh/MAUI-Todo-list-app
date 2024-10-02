@@ -34,7 +34,7 @@ public partial class ListTitles : ContentPage, INotifyPropertyChanged
         {
            string nameOfToDoList = (ToDoList.SelectedItem as ToDo)?.ListName ?? "Error with the To Do list's name";
            
-            DisplayAlert("Selected Item", $"{((ToDo)ToDoList.SelectedItem).Id}", "OK");
+            
         }
         
 
@@ -45,18 +45,18 @@ public partial class ListTitles : ContentPage, INotifyPropertyChanged
     /// </summary>
     /// <param name="sender"> The Item in the List that sends the request</param>
     /// <param name="e"> The ItemTappedEventArgs</param>
-    /*
-     TODO: Handle the serialization of the dictionary so that it is sent and injected correctly into the TaskList
-    */
-
     private async void ToDoList_ItemTapped(object sender, ItemTappedEventArgs e)
     {
-        DisplayAlert("Selected Item", $"{((ToDo)ToDoList.SelectedItem).Id}", "OK");
+       
         // Serialize the dictionary to a JSON string using your converter
         var TaskPage= new TaskList(((ToDo)ToDoList.SelectedItem).Id,((ToDo)ToDoList.SelectedItem).ListName,((ToDo)ToDoList.SelectedItem).Tasks);
-        await Navigation.PushAsync(TaskPage);
+       
        
         ToDoList.SelectedItem=null;
+        // Disable further taps until navigation completes
+        ToDoList.IsEnabled = false;
+        await Navigation.PushAsync(TaskPage);
+        ToDoList.IsEnabled = true;
     }
 }
 

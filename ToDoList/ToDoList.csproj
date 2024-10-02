@@ -21,7 +21,7 @@
 		<Nullable>enable</Nullable>
 
 		<!-- Display name -->
-		<ApplicationTitle>ToDoList</ApplicationTitle>
+		<ApplicationTitle>To Do</ApplicationTitle>
 
 		<!-- App Identifier -->
 		<ApplicationId>com.companyname.todolist</ApplicationId>
