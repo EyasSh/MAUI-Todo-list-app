@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eSzpXE9Obko=",
+  "dgSpecHash": "YaBkPmgsAT4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\eyas_\\source\\repos\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eyas_\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\eyas_\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

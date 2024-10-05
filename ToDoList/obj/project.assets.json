@@ -33504,11 +33504,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "C:\\Users\\eyas_\\source\\repos\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
+      "projectPath": "C:\\Users\\eyas_\\source\\repos\\MAUI-Todo-list-app\\ToDoList\\ToDoList.csproj",
       "packagesPath": "C:\\Users\\eyas_\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eyas_\\MAUI-Todo-list-app\\ToDoList\\obj\\",
+      "outputPath": "C:\\Users\\eyas_\\source\\repos\\MAUI-Todo-list-app\\ToDoList\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

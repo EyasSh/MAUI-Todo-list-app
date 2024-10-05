@@ -12,47 +12,47 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDoList
-build_property.ProjectDir = C:\Users\eyas_\MAUI-Todo-list-app\ToDoList\
+build_property.ProjectDir = C:\Users\eyas_\source\repos\MAUI-Todo-list-app\ToDoList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/App.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/AppShell.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/MainPage.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/Resources/Styles/Colors.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/Resources/Styles/Styles.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/Views/ListTitles.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/Views/ListTitles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.Views.ListTitles.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\ListTitles.xaml
 build_metadata.AdditionalFiles.RelativePath = Views\ListTitles.xaml
 
-[C:/Users/eyas_/MAUI-Todo-list-app/ToDoList/Views/TaskList.xaml]
+[C:/Users/eyas_/source/repos/MAUI-Todo-list-app/ToDoList/Views/TaskList.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = ToDoList.Views.TaskList.xaml
 build_metadata.AdditionalFiles.TargetPath = Views\TaskList.xaml
